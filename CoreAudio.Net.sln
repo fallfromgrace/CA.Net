@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAudio.Net", "CoreAudio.Net\CoreAudio.Net.csproj", "{57CA3D5D-AF07-4336-A7B1-B5D2403666FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAudio.Net.UnitTests", "CoreAudio.Net.UnitTests\CoreAudio.Net.UnitTests.csproj", "{6B2C8CF6-9480-4724-9802-2DC63824FC28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAudio.Net.Nuget", "CoreAudio.Net.Nuget\CoreAudio.Net.Nuget.csproj", "{0451BAEF-DF2E-4B98-8644-94EE9415E389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57CA3D5D-AF07-4336-A7B1-B5D2403666FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CA3D5D-AF07-4336-A7B1-B5D2403666FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CA3D5D-AF07-4336-A7B1-B5D2403666FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CA3D5D-AF07-4336-A7B1-B5D2403666FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2C8CF6-9480-4724-9802-2DC63824FC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2C8CF6-9480-4724-9802-2DC63824FC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2C8CF6-9480-4724-9802-2DC63824FC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2C8CF6-9480-4724-9802-2DC63824FC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
